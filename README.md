@@ -9,14 +9,12 @@ Create an interactive navigation menu that changes color or style when scrolled 
 - **Fixed Navigation Bar** - Stays at the top while scrolling
 - **Scroll Effects** - Changes from transparent to dark background when scrolled
 - **Hover Animations** - Blue highlight and underline effects on menu items
-- **Responsive Design** - Works on desktop and mobile devices
 - **Multi-page Portfolio** - Home, Projects, and Experience pages
 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Flexbox, Animations, Transitions)
 - JavaScript (Scroll Detection)
-- Google Fonts (Poppins)
 
 ## 📁 Project Structure
 ```
@@ -27,14 +25,6 @@ Create an interactive navigation menu that changes color or style when scrolled 
 ├── script.js          # Navbar scroll functionality
 └── README.md          # Project documentation
 ```
-
-## 🚀 Live Demo
-Open `index.html` in your browser to see the interactive navigation menu in action.
-
-## 📱 Responsive Breakpoints
-- Desktop: 900px+
-- Tablet: 600px - 900px
-- Mobile: < 600px
 
 ## 👨‍💻 Developer
 **Sumashree Suresh**
